@@ -1,0 +1,5 @@
+{
+  "name": "NeonFlow - AI Danmaku",
+  "description": "A sci-fi themed interactive bullet screen (Danmaku) application. Guests scan a QR code to join, creating a real-time message stream filtered by Gemini AI for safety.",
+  "requestFramePermissions": []
+}
